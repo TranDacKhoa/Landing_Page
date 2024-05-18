@@ -538,7 +538,7 @@ strong {
   position: absolute;
   top: 55%;
   left: 50%;
-  transform: translate(-55%, -50%) rotate(45deg);
+  transform: translate(-50%, -50%) rotate(45deg);
   width: 250px;
   height: 350px;
   pointer-events: none;
